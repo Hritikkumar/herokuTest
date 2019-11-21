@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+<title>W3 Home page</title>
+<link>https://www.w3schools.com</link>
+<description>Free web building tutorials</description>
+<item>
+<title>RSS tutorials</title>
+<link>https://www.w3schools.com/xml/xml_rss.asp</link>
+<description>New RSS tutorial on w3 schools</description>
+</item>
+</channel>
+</rss>
